@@ -19,10 +19,15 @@ input:focus{
 
 button{
     background-color: #e5989b;
-    border: none;
+    border: 1px solid #e5989b;
     color: white;
     padding: 10px 10px;
     cursor: pointer;
+}
+
+#delete-btn{
+    background-color: white;
+    color: #e5989b;
 }
 
 ul{
